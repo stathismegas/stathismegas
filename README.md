@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stathismegas" alt="stathismegas" /></a> </p>
 
-- 🔭 I’m currently working on **Spatial Causal Disentanglement and Perturbation Modelling**
+- 🔭 I’m currently working on **Spatial Causal Disentanglement for cell and tissue engineering**
 
 - 👯 I’m looking to collaborate on **Causal Foundation models**
 
